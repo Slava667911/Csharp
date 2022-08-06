@@ -1,0 +1,6 @@
+D:\Visual\Lesson 1\Info\bin\Debug\Info.dll
+D:\Visual\Lesson 1\Info\bin\Debug\Info.pdb
+D:\Visual\Lesson 1\Info\obj\Debug\Info.csproj.AssemblyReference.cache
+D:\Visual\Lesson 1\Info\obj\Debug\Info.csproj.CoreCompileInputs.cache
+D:\Visual\Lesson 1\Info\obj\Debug\Info.dll
+D:\Visual\Lesson 1\Info\obj\Debug\Info.pdb
