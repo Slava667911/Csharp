@@ -1,0 +1,8 @@
+D:\Visual\Lesson 1\Upr.Konstr\bin\Debug\Upr.Konstr.exe.config
+D:\Visual\Lesson 1\Upr.Konstr\bin\Debug\Upr.Konstr.exe
+D:\Visual\Lesson 1\Upr.Konstr\bin\Debug\Upr.Konstr.pdb
+D:\Visual\Lesson 1\Upr.Konstr\obj\Debug\Upr.Konstr.csproj.AssemblyReference.cache
+D:\Visual\Lesson 1\Upr.Konstr\obj\Debug\Upr.Konstr.csproj.SuggestedBindingRedirects.cache
+D:\Visual\Lesson 1\Upr.Konstr\obj\Debug\Upr.Konstr.csproj.CoreCompileInputs.cache
+D:\Visual\Lesson 1\Upr.Konstr\obj\Debug\Upr.Konstr.exe
+D:\Visual\Lesson 1\Upr.Konstr\obj\Debug\Upr.Konstr.pdb
